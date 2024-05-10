@@ -8,3 +8,4 @@
 - UE5 마네킹
 - StarterContent
 - LevelPrototyping
+- AnimStarterPack
