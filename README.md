@@ -1,14 +1,18 @@
-# Plugin Starter Content
+# Plugin StarterContent
 
-여러 프로젝트에서 더미 에셋으로 사용하기 위한 플러그인으로 언리얼 기본 컨텐츠가 포함되어 있습니다.
+언리얼에서 기본 제공해주는 StarterContent 콘텐츠 전용 플러그인
 
-개인적인 작업 편의성을 위해 제작되었기 때문에 원본 에셋과 이름 및 내용이 다를 수 있습니다.
+## 설치 방법
 
-## 컨텐츠 목록
+### 서브 모듈로 설치하는 방법
 
-- UE4 마네킹
-- UE5 마네킹
-- StarterContent
-- LevelPrototyping
-- AnimStarterPack
-    - 에임 오프셋 추가
+1. 메인 프로젝트 `git` 저장소 열기
+2. 플러그인 `git` 저장소를 메인 프로젝트 `git` 저장소에 서브 모듈로서 추가
+    - git 저장소의 `하위 폴더`에 언리얼 프로젝트가 생성된 경우 `지역 상대 경로`: `언리얼_프로젝트_폴더_이름/Plugins/StarterContent`
+    - git 저장소의 `루트 폴더`에 언리얼 프로젝트가 생성된 경우 `지역 상대 경로`: `Plugins/StarterContent`
+
+### zip 파일로 사용하는 방법
+
+1. `zip` 파일 다운로드
+2. 압축 해제 후 루트 폴더 이름을 `StarterContent`으로 수정
+3. 언리얼 프로젝트 `Plugins` 폴더로 `StarterContent` 붙여넣기
