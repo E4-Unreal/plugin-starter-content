@@ -1,6 +1,7 @@
-# Plugin StarterContent
+# Plugin Starter Content
 
-언리얼에서 기본 제공해주는 StarterContent 콘텐츠 전용 플러그인
+- 에픽게임즈 무료 콘텐츠 
+- 기본 머터리얼, VFX, 그리고 SFX가 포함된 콘텐츠 팩
 
 ## 설치 방법
 
