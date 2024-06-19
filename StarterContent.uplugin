@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
+	"Version": 2,
+	"VersionName": "1.0.1",
 	"FriendlyName": "Starter Content",
 	"Description": "기본 머터리얼, VFX, 그리고 SFX가 포함된 콘텐츠 팩",
 	"Category": "Epic Games Content",
